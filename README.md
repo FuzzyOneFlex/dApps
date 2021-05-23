@@ -1,2 +1,2 @@
-# token
+# dApps
 The FUZ dApps repository
