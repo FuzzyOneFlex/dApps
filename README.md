@@ -1,2 +1,2 @@
 # token
-The FUZ token repository
+The FUZ dApp repository
